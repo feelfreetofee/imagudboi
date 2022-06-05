@@ -1,0 +1,49 @@
+{
+    "CLEAR": [
+        "CLEARING",
+        "OVERCAST"
+    ],
+    "CLOUDS": [
+        "CLEARING",
+        "OVERCAST"
+    ],
+    "OVERCAST": [
+        "CLEARING",
+        "CLEAR"
+    ],
+    "EXTRASUNNY": [
+        "CLEARING",
+        "OVERCAST"
+    ],
+    "CLEARING": [
+        "FOGGY",
+        "RAIN",
+        "CLOUDS",
+        "EXTRASUNNY",
+        "SMOG"
+    ],
+    "THUNDER": [
+        "CLEARING",
+        "RAIN"
+    ],
+    "RAIN": [
+        "CLEARING",
+        "THUNDER",
+        "BLIZZARD",
+        "XMAS"
+    ],
+    "BLIZZARD": [
+        "XMAS",
+        "RAIN"
+    ],
+    "XMAS": [
+        "BLIZZARD",
+        "RAIN"
+    ],
+    "SMOG": [
+        "CLEAR"
+    ],
+    "FOGGY": [
+        "CLEAR"
+    ]
+}
